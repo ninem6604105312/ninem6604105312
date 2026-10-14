@@ -1,5 +1,11 @@
 ## Hi there 👋
-##นายนันทิพัฒน์ ชลภิญโญสกุล เกิดที่นครสวรรค์ อ.ตาคลี ต.ตาคลี ความรู้ที่ทำเป็นpythonพื้นฐาน photoshop พื้นฐาน
+##ผู้สำเร็จการศึกษาด้านวิทยาศาสตร์ เอกคณิตศาสตร์และวิทยาการข้อมูล ที่มีความหลงใหลในการเปลี่ยนข้อมูลดิบให้กลายเป็นข้อมูลเชิงลึก (Actionable Insights) เพื่อขับเคลื่อนการตัดสินใจทางธุรกิจ มีพื้นฐานแน่นด้านสถิติ การคิดเชิงตรรกะ และการวิเคราะห์เชิงปริมาณ
+
+มีความเชี่ยวชาญในการใช้ Python สำหรับการทำความสะอาดข้อมูล (Data Cleaning), การสำรวจและวิเคราะห์ข้อมูลเบื้องต้น (Exploratory Data Analysis - EDA) ผ่านไลบรารี Pandas และ NumPy พร้อมทั้งสามารถสร้างภาพจำลองข้อมูล (Data Visualization) ที่เข้าใจง่ายด้วย Matplotlib และ Seaborn นอกจากนี้ยังมีทักษะในการเขียน SQL สำหรับการจัดการฐานข้อมูล การสร้าง Interactive Dashboard ด้วย Power BI / Tableau รวมถึงการใช้งาน Excel ด้าน AI & Machine Learning: มีความรู้ความเข้าใจพื้นฐานเกี่ยวกับหลักการทำงาน 
+
+A Science graduate majoring in Mathematics and Data Science with a strong passion for turning raw data into actionable insights that drive business decisions. Possesses a solid foundation in statistics, logical thinking, and quantitative analysis.
+
+Proficient in Python for data cleaning, data manipulation, and Exploratory Data Analysis (EDA) utilizing Pandas and NumPy, alongside creating intuitive data visualizations with Matplotlib and Seaborn. Skilled in writing SQL queries for database management, designing interactive dashboards in Power BI and Tableau, and performing advanced data analysis in Excel. Additionally, holds a foundational understanding of core AI and Machine Learning principles and baseline predictive workflows, with a strong ability to leverage data-driven solutions effectively
 <!--
 **ninem6604105312/ninem6604105312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
